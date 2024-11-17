@@ -1,0 +1,53 @@
+html {
+    font-size: 62.5%;
+}
+/* red green root stareted */
+:root {
+    --black:#000000;
+    --red: #ed1c24;
+    --white: #ffffff;
+    --green: #28a745;
+}
+/* red green root ended */
+
+
+/* nav bar started */
+.nav-item {
+    font-size: 1.6rem;
+}
+
+.logo {
+    width: 165px;
+}
+
+.franchise-btn {
+    background-color: transparent;
+    border: 1px solid var(--white);
+    border-radius: 35px;
+    padding: 13.5px 12px 13.5px 12px;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+
+.order-btn {
+    background-color: var(--red);
+    border: 0px solid var(--white);
+    border-radius: 35px;
+    padding: 16.5px 12px 16.5px 12px;
+    font-size: 1.6rem;
+    cursor: pointer;
+
+}
+
+.arrow-icon {
+    background-color: var(--red);
+}
+
+.icon-bg {
+    color: var(--red);
+    background-color: var(--white);
+    padding: 5px 7px;
+    margin-left: 2px;
+    border-radius: 20px;
+}
+/* Nav bar Ended */
