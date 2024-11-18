@@ -90,6 +90,12 @@ html {
     text-decoration: none;
 }
 
+.w-100 {
+    width: 100%;
+}
+.bg-white {
+    background-color: var(--white);
+}
 /* sizes */
 
 /* Margin utilities */
@@ -132,6 +138,10 @@ html {
 
 .mt-5 {
     margin-top: 50px;
+}
+
+.mt-6 {
+    margin-top: 60px;
 }
 
 /* Margin bottom */
